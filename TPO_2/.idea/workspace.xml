@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9884f40-8d82-4115-8507-8603e6c9b5b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFnxsqf2eDagHGGWTNGtFn29dw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ClientEcho">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Client" />
+      <module name="TPO_2" />
+      <option name="PROGRAM_PARAMETERS" value="Add 5" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientEcho" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Client" />
+      <module name="TPO_2" />
+      <option name="PROGRAM_PARAMETERS" value="Echo Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="com.company.Server" />
+      <module name="TPO_2" />
+      <option name="PROGRAM_PARAMETERS" value="Add" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerEcho" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Server" />
+      <module name="TPO_2" />
+      <option name="PROGRAM_PARAMETERS" value="Echo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientEcho" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ServerEcho" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9884f40-8d82-4115-8507-8603e6c9b5b0" name="Default Changelist" comment="" />
+      <created>1584443966714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584443966714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584459719623">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1584459719623" />
+    <state x="543" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1584457080369">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="543" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864@0.0.1474.864" timestamp="1584457080369" />
+    <state x="467" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584459702607">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="467" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1474.864@0.0.1474.864" timestamp="1584459702607" />
+    <state x="343" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584454494938">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="343" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1474.864@0.0.1474.864" timestamp="1584454494938" />
+    <state x="684" y="182" key="FileChooserDialogImpl" timestamp="1584896899954">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="684" y="182" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1584896899954" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1584541483721">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1584541483721" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1584541483720">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1584541483720" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1584541483720">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1584541483720" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1584541483721">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1584541483721" />
+    <state x="369" y="53" key="SettingsEditor" timestamp="1584896935909">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="369" y="53" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1584896935909" />
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584896744123">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1584896744123" />
+    <state x="203" y="47" key="new project wizard" timestamp="1584896911126">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="203" y="47" key="new project wizard/0.0.1474.864@0.0.1474.864" timestamp="1584896911126" />
+    <state x="770" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1584446016341">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="770" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1584446016341" />
+  </component>
+</project>

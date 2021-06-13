@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1bec714-c1c8-4e7d-acd8-9fc6c60bbbff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cPiQJvOtWxptpnwfxPNi67nbXv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\best\Desktop\Subject\TPO\TPO_10_Client\Lib" />
+      <recent name="C:\Users\best\Desktop\Subject\TPO\TPO_10_Client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Testing.main">
+    <configuration name="Test.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_10_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TPO_10" />
+      <option name="MAIN_CLASS_NAME" value="TPO_10.Test" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_10_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TPO_10" />
+      <option name="MAIN_CLASS_NAME" value="TPO_10.Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_10_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TPO_10" />
+      <option name="MAIN_CLASS_NAME" value="TPO_10.Testing" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing.assertTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_10_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TPO_10" />
+      <option name="MAIN_CLASS_NAME" value="TPO_10.Testing" />
+      <option name="METHOD_NAME" value="assertTesting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_10_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TPO_10" />
+      <option name="MAIN_CLASS_NAME" value="TPO_10.Testing" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Testing.main" />
+        <item itemvalue="JUnit.Testing" />
+        <item itemvalue="JUnit.Testing.assertTesting" />
+        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="JUnit.Test.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1bec714-c1c8-4e7d-acd8-9fc6c60bbbff" name="Default Changelist" comment="" />
+      <created>1590436612343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590436612343</updated>
+      <workItem from="1590436615013" duration="4231000" />
+      <workItem from="1590581057405" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="90" key="#Inspections" timestamp="1590440529994">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="90" key="#Inspections/0.0.1474.864@0.0.1474.864" timestamp="1590440529994" />
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1590437029501">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1590437029501" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1590582289020">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1590582289020" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1590582289020">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1590582289020" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1590582289020">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1590582289020" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1590582289020">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1590582289020" />
+    <state x="268" y="87" key="Maven.ArtifactSearchDialog" timestamp="1590437929716">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="268" y="87" key="Maven.ArtifactSearchDialog/0.0.1474.864@0.0.1474.864" timestamp="1590437929716" />
+  </component>
+</project>

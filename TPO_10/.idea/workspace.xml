@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a13e1fa6-3694-4f24-a246-cadfd6407f02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cPcet4adjqQDW91JsMrNWQCD2G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TPO_10_Client" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\best\Desktop\Subject\TPO\TPO_10\src\main\java\TPO_10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PersonService">
+    <configuration name="CalculatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TPO_10.CalculatorImpl" />
+      <module name="TPO_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TPO_10.PersonService" />
+      <module name="TPO_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPO_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonService" />
+        <item itemvalue="Application.CalculatorImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a13e1fa6-3694-4f24-a246-cadfd6407f02" name="Default Changelist" comment="" />
+      <created>1590433767596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590433767596</updated>
+      <workItem from="1590433770902" duration="2814000" />
+      <workItem from="1590436952018" duration="2861000" />
+      <workItem from="1590511984219" duration="34000" />
+      <workItem from="1590581041528" duration="1253000" />
+      <workItem from="1590582585348" duration="2000" />
+      <workItem from="1590964281679" duration="14000" />
+      <workItem from="1591571997108" duration="10000" />
+      <workItem from="1592247305659" duration="19000" />
+      <workItem from="1592570666682" duration="4000" />
+      <workItem from="1595369560949" duration="8000" />
+      <workItem from="1601898292609" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1601898300285">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1601898300285" />
+  </component>
+</project>
